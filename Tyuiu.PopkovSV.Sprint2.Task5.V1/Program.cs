@@ -17,7 +17,7 @@ namespace Tyuiu.PopkovSV.Sprint2.Task5.V1
             Console.Title = "Спринт #2 | Выполнил: Попков С. В. | ИСТНб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт#2                                                                *");
-            Console.WriteLine("* Тема: Получение результата из switch                                    *");
+            Console.WriteLine("* Тема: Оператор switch                                                   *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #1                                                              *");
             Console.WriteLine("* Выполнил: Попков Сергей Вадимович | ИСТНб-23-1                          *");
